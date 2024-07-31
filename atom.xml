@@ -3,11 +3,11 @@
   <title>谢幕</title>
   
   <subtitle>须知少时凌云志，曾许人间第一流！</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://blog.xiemu.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://blog.xiemu.top/"/>
   <updated>2024-07-28T08:41:02.041Z</updated>
-  <id>http://example.com/</id>
+  <id>https://blog.xiemu.top/</id>
   
   <author>
     <name>谢幕</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>使用Cloudflare搭建各类AI的微信助手反向代理</title>
-    <link href="http://example.com/posts/cdd8f365.html"/>
-    <id>http://example.com/posts/cdd8f365.html</id>
+    <link href="https://blog.xiemu.top/posts/cdd8f365.html"/>
+    <id>https://blog.xiemu.top/posts/cdd8f365.html</id>
     <published>2024-07-28T07:30:49.000Z</published>
     <updated>2024-07-28T08:41:02.041Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="AiChatHelper" scheme="http://example.com/categories/AiChatHelper/"/>
+    <category term="AiChatHelper" scheme="https://blog.xiemu.top/categories/AiChatHelper/"/>
     
     
-    <category term="AiChatHelper" scheme="http://example.com/tags/AiChatHelper/"/>
+    <category term="AiChatHelper" scheme="https://blog.xiemu.top/tags/AiChatHelper/"/>
     
   </entry>
   
   <entry>
     <title>使用Nodejs搭建各类AI的微信助手反向代理</title>
-    <link href="http://example.com/posts/126b2990.html"/>
-    <id>http://example.com/posts/126b2990.html</id>
+    <link href="https://blog.xiemu.top/posts/126b2990.html"/>
+    <id>https://blog.xiemu.top/posts/126b2990.html</id>
     <published>2024-07-28T06:58:15.000Z</published>
     <updated>2024-07-28T08:11:11.615Z</updated>
     
@@ -57,17 +57,17 @@
     
     
     
-    <category term="AiChatHelper" scheme="http://example.com/categories/AiChatHelper/"/>
+    <category term="AiChatHelper" scheme="https://blog.xiemu.top/categories/AiChatHelper/"/>
     
     
-    <category term="AiChatHelper" scheme="http://example.com/tags/AiChatHelper/"/>
+    <category term="AiChatHelper" scheme="https://blog.xiemu.top/tags/AiChatHelper/"/>
     
   </entry>
   
   <entry>
     <title>使用Netlify搭建各类AI的微信助手反向代理</title>
-    <link href="http://example.com/posts/5c83816a.html"/>
-    <id>http://example.com/posts/5c83816a.html</id>
+    <link href="https://blog.xiemu.top/posts/5c83816a.html"/>
+    <id>https://blog.xiemu.top/posts/5c83816a.html</id>
     <published>2024-07-28T03:36:54.000Z</published>
     <updated>2024-07-28T13:49:13.632Z</updated>
     
@@ -81,10 +81,10 @@
     
     
     
-    <category term="AiChatHelper" scheme="http://example.com/categories/AiChatHelper/"/>
+    <category term="AiChatHelper" scheme="https://blog.xiemu.top/categories/AiChatHelper/"/>
     
     
-    <category term="AiChatHelper" scheme="http://example.com/tags/AiChatHelper/"/>
+    <category term="AiChatHelper" scheme="https://blog.xiemu.top/tags/AiChatHelper/"/>
     
   </entry>
   
